@@ -1,0 +1,133 @@
+.App {
+  height: 100vh;
+}
+
+/* vertical line using bootstrap class "vr" */
+.vr{
+    width: 2px;
+    height: 200px;
+}
+
+.vr-wrapper{
+    position:absolute;
+    top:3%;
+    right: 10%;
+}
+
+/* THE FIRE PURCHASE "tFP" */
+.tFP{
+    font-size: 0.5rem;
+    padding-right: 57%;
+}
+
+/* custom button */
+.cBtn{
+    height:25px;
+    width:25px;
+    font-size: 10px;
+    border-radius: 15px;
+    border: 1.5px solid grey;
+    background-color: white;
+    color:black;
+    
+}
+
+/* custom button hover */
+.cBtn:hover{
+    height: 25px;
+    width:25px;
+    font-size:10px ;
+    border-radius: 15px;
+    border: 1px solid #bdb27c;
+    background-color: white;
+    color:black;
+    
+}
+
+
+/* Heading and text 7M */
+._head7M {
+  position: relative;
+  top: 0;
+  left: 35%;
+  font-family: "Noto Serif Display", serif;
+  color: #bdb27c;
+  font-size: 4rem;
+}
+
+._text7M {
+  font-size: 0.5rem;
+  text-align: center;
+  padding: 0 40% 0 40%;
+}
+
+/* Heading and text 8M  */
+._head8M {
+  position: relative;
+  top: 0;
+  left: 45%;
+  font-family: "Noto Serif Display", serif;
+  color: #bdb27c;
+  font-size: 4rem;
+}
+
+._text8M {
+    position: relative;
+    
+    left: 10%;
+  text-align: center;
+  font-size: 0.5rem;
+  padding: 0 38.5% 0 38.5%;
+}
+
+/*  Heading and text 33M */
+._head33M {
+  position: relative;
+  top: 0;
+  left: 43%;
+  font-family: "Noto Serif Display", serif;
+  color: #bdb27c;
+  font-size: 4rem;
+}
+
+._text33M {
+    position: relative;
+    left:3%;
+  padding: 0 43% 0 43%;
+  text-align: center;
+  font-size: 0.5rem;
+}
+
+/* Heading and text footPrint */
+.footPrint {
+  font-weight: 700;
+  padding: 0 40% 0 20%;
+}
+
+._footPrintText {
+  font-size: 0.5rem;
+  text-align: left;
+  padding: 0 40% 0 20%;
+}
+
+/* Heading and text 8,679 */
+._head8679 {
+  font-size: 4rem;
+  color: #bdb27c;
+  font-family: "Noto Serif Display", serif;
+}
+
+._text8679 {
+  font-size: 0.5rem;
+}
+
+/* Heading and text 373 */
+._head373 {
+  font-size: 4rem;
+  color: #bdb27c;
+  font-family: "Noto Serif Display", serif;
+}
+
+._text373 {
+  font-size: 0.5rem;
+}
